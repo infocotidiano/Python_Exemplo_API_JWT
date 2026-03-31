@@ -1,4 +1,4 @@
-#aplicacao principal
+#nossa aplicacao principal
 from flask import Flask
 from routes.rotas import rotas
 

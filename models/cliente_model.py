@@ -1,4 +1,3 @@
-#validacao dos dados
 from config.configuracao import Configuracao
 
 class ClienteModel:

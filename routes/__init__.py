@@ -1,0 +1,1 @@
+#Ele indica ao Python que a pasta onde está localizado deve ser tratada como um pacote.
